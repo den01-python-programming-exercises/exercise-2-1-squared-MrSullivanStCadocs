@@ -1,6 +1,6 @@
 def main():
     #write your code below this line
-    first = int(input())
+    first = int(input( ))
 
     squared = first * first
 
